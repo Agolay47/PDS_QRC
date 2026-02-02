@@ -36,15 +36,6 @@ Main features:
   - real-world time series (tomato price dataset),
   - genuinely quantum-generated datasets
 
-This notebook was used for the majority of the systematic performance analysis presented in the report.
----
-
-## Notes
-
-- The notebooks are designed for **research exploration**, not as a polished software package.
-- Results may depend on random seeds and simulator settings.
-- Some additional exploratory experiments are included directly in the notebooks but are not discussed in detail in the final report.
-
 ---
 
 ## Authors
