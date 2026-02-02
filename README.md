@@ -10,11 +10,11 @@ The project was carried out at **EPFL (Faculty of Quantum Science and Engineerin
 
 The repository is organized around two main Jupyter notebooks, corresponding to two complementary QRC frameworks.
 
-### Notebook A — *Parameterized QRC*
+### Notebook A - *Parameterized QRC*
 
 This notebook implements a **parameterized (sequential) Quantum Reservoir Computing** architecture.
 
-### Notebook B — *Recurrence-Free QRC (RF-QRC)*
+### Notebook B - *Recurrence-Free QRC (RF-QRC)*
 
 This notebook implements a **recurrence-free QRC (RF-QRC)** framework.
 
