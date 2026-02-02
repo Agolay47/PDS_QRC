@@ -6,8 +6,6 @@ This repository contains the code developed for a semester project on **Quantum 
 
 The project was carried out at **EPFL (Faculty of Quantum Science and Engineering)** during the Autumn Semester 2025.
 
----
-
 ## Repository Structure
 
 The repository is organized around two main Jupyter notebooks, corresponding to two complementary QRC frameworks.
@@ -15,8 +13,6 @@ The repository is organized around two main Jupyter notebooks, corresponding to 
 ### Notebook A — *Parameterized QRC*
 
 This notebook implements a **parameterized (sequential) Quantum Reservoir Computing** architecture.
-
----
 
 ### Notebook B — *Recurrence-Free QRC (RF-QRC)*
 
@@ -42,5 +38,3 @@ Main features:
 
 - **Emma Victoria Berenholt**  
 - **Alexandra Coralie Golay**
-
-EPFL - Quantum Science and Engineering
