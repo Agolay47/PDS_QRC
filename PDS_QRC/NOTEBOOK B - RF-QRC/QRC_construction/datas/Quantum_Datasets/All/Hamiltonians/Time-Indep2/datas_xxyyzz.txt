@@ -1,0 +1,1224 @@
+G1 depth=3 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.46s | NRMSE=2.149
+G1 depth=3 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.62s | NRMSE=1.673
+G1 depth=10 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.34s | NRMSE=1.673
+G1 depth=10 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.28s | NRMSE=2.334
+G2 depth=3 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.2s | NRMSE=1.177
+G2 depth=3 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.28s | NRMSE=2.334
+G2 depth=10 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.91s | NRMSE=1.673
+G2 depth=10 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.93s | NRMSE=1.673
+G3 depth=3 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.66s | NRMSE=1.884
+G3 depth=3 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.81s | NRMSE=1.578
+G3 depth=10 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.54s | NRMSE=1.673
+G3 depth=10 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.52s | NRMSE=1.945
+MG depth=3 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.45s | NRMSE=1.861
+MG depth=3 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.77s | NRMSE=1.441
+MG depth=10 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=1.15s | NRMSE=1.450
+MG depth=10 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=1s | NRMSE=2.116
+D k=2 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=1.26s | NRMSE=2.129
+D k=2 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.54s | NRMSE=2.119
+D k=3 | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.21s | NRMSE=2.031
+D k=3 | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.69s | NRMSE=2.031
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.88s | NRMSE=1.782
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.88s | NRMSE=2.033
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=0.87s | NRMSE=1.171
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S:XYZ | Rz=False | time=1.05s | NRMSE=1.839
+G1 depth=3 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.31s | NRMSE=1.938
+G1 depth=3 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.19s | NRMSE=1.735
+G1 depth=10 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.51s | NRMSE=1.735
+G1 depth=10 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.42s | NRMSE=2.383
+G2 depth=3 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.27s | NRMSE=1.559
+G2 depth=3 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.38s | NRMSE=1.459
+G2 depth=10 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=1.01s | NRMSE=1.735
+G2 depth=10 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.49s | NRMSE=1.735
+G3 depth=3 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.9s | NRMSE=1.908
+G3 depth=3 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.91s | NRMSE=1.618
+G3 depth=10 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.59s | NRMSE=1.875
+G3 depth=10 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.46s | NRMSE=1.711
+MG depth=3 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.44s | NRMSE=1.824
+MG depth=3 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.3s | NRMSE=1.463
+MG depth=10 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.7s | NRMSE=1.435
+MG depth=10 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.9s | NRMSE=2.024
+D k=2 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.92s | NRMSE=2.157
+D k=2 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=2.16s | NRMSE=2.190
+D k=3 | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.37s | NRMSE=2.088
+D k=3 | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.38s | NRMSE=2.088
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.75s | NRMSE=2.274
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.37s | NRMSE=1.859
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.61s | NRMSE=1.653
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S:XZ | Rz=False | time=0.56s | NRMSE=1.909
+G1 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.41s | NRMSE=1.979
+G1 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.58s | NRMSE=1.979
+G1 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.59s | NRMSE=1.979
+G1 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.78s | NRMSE=2.356
+G2 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.64s | NRMSE=1.913
+G2 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.56s | NRMSE=2.329
+G2 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.58s | NRMSE=1.979
+G2 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.34s | NRMSE=2.356
+G3 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.37s | NRMSE=1.905
+G3 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.2s | NRMSE=2.280
+G3 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.36s | NRMSE=1.913
+G3 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.72s | NRMSE=1.999
+MG depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.4s | NRMSE=2.492
+MG depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.54s | NRMSE=2.093
+MG depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.51s | NRMSE=1.864
+MG depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.29s | NRMSE=2.312
+D k=2 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.47s | NRMSE=2.279
+D k=2 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.75s | NRMSE=2.226
+D k=3 | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.41s | NRMSE=2.177
+D k=3 | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.41s | NRMSE=2.177
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.56s | NRMSE=1.918
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.5s | NRMSE=1.971
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.61s | NRMSE=1.882
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+P:XZ | Rz=False | time=0.79s | NRMSE=1.971
+G1 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.44s | NRMSE=2.305
+G1 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.47s | NRMSE=2.249
+G1 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.73s | NRMSE=2.249
+G1 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.32s | NRMSE=2.601
+G2 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.2s | NRMSE=2.326
+G2 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.22s | NRMSE=2.487
+G2 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.26s | NRMSE=2.249
+G2 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.43s | NRMSE=2.227
+G3 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.41s | NRMSE=2.563
+G3 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.43s | NRMSE=2.891
+G3 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.57s | NRMSE=1.953
+G3 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.55s | NRMSE=2.226
+MG depth=3 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.52s | NRMSE=2.904
+MG depth=3 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.46s | NRMSE=2.082
+MG depth=10 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.35s | NRMSE=2.045
+MG depth=10 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.33s | NRMSE=2.224
+D k=2 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.17s | NRMSE=2.470
+D k=2 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.68s | NRMSE=2.519
+D k=3 | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.24s | NRMSE=1.771
+D k=3 | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.37s | NRMSE=1.771
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.55s | NRMSE=2.398
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.91s | NRMSE=2.134
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.86s | NRMSE=2.028
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.77s | NRMSE=2.171
+G1 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.59s | NRMSE=2.305
+G1 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.37s | NRMSE=2.249
+G1 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.27s | NRMSE=2.249
+G1 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.3s | NRMSE=2.601
+G2 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.31s | NRMSE=2.326
+G2 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.25s | NRMSE=2.487
+G2 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.47s | NRMSE=2.249
+G2 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.28s | NRMSE=2.227
+G3 depth=3 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.22s | NRMSE=2.563
+G3 depth=3 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.25s | NRMSE=2.891
+G3 depth=10 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.26s | NRMSE=1.953
+G3 depth=10 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.44s | NRMSE=2.226
+MG depth=3 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.22s | NRMSE=2.904
+MG depth=3 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.42s | NRMSE=2.082
+MG depth=10 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.61s | NRMSE=2.045
+MG depth=10 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.4s | NRMSE=2.224
+D k=2 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.5s | NRMSE=2.470
+D k=2 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.58s | NRMSE=2.519
+D k=3 | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.22s | NRMSE=1.771
+D k=3 | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.23s | NRMSE=1.771
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.3s | NRMSE=2.398
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.29s | NRMSE=2.134
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.36s | NRMSE=2.028
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.2s | NRMSE=2.171
+G1 depth=3 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.18s | NRMSE=2.149
+G1 depth=3 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.19s | NRMSE=1.673
+G1 depth=10 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.25s | NRMSE=1.673
+G1 depth=10 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.25s | NRMSE=2.334
+G2 depth=3 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.19s | NRMSE=1.177
+G2 depth=3 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.19s | NRMSE=2.334
+G2 depth=10 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.5s | NRMSE=1.673
+G2 depth=10 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.38s | NRMSE=1.673
+G3 depth=3 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.19s | NRMSE=1.884
+G3 depth=3 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.24s | NRMSE=1.578
+G3 depth=10 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.25s | NRMSE=1.673
+G3 depth=10 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.24s | NRMSE=1.945
+MG depth=3 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.48s | NRMSE=1.861
+MG depth=3 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.42s | NRMSE=1.441
+MG depth=10 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.08s | NRMSE=1.450
+MG depth=10 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.77s | NRMSE=2.116
+D k=2 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.76s | NRMSE=2.129
+D k=2 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.76s | NRMSE=2.119
+D k=3 | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.59s | NRMSE=2.031
+D k=3 | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.38s | NRMSE=2.031
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.28s | NRMSE=1.782
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.66s | NRMSE=2.033
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.32s | NRMSE=1.171
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.33s | NRMSE=1.839
+G1 depth=3 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.22s | NRMSE=1.923
+G1 depth=3 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.45s | NRMSE=1.923
+G1 depth=10 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.44s | NRMSE=2.035
+G1 depth=10 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.3s | NRMSE=2.027
+G2 depth=3 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.22s | NRMSE=2.141
+G2 depth=3 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.28s | NRMSE=1.923
+G2 depth=10 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.8s | NRMSE=1.384
+G2 depth=10 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.28s | NRMSE=2.027
+G3 depth=3 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.26s | NRMSE=2.005
+G3 depth=3 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.23s | NRMSE=1.923
+G3 depth=10 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.42s | NRMSE=2.369
+G3 depth=10 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.29s | NRMSE=2.027
+MG depth=3 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.39s | NRMSE=2.069
+MG depth=3 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.31s | NRMSE=1.643
+MG depth=10 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.57s | NRMSE=2.473
+MG depth=10 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=1.36s | NRMSE=1.931
+D k=2 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=2.11s | NRMSE=2.281
+D k=2 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=1.4s | NRMSE=2.024
+D k=3 | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=1.9s | NRMSE=2.207
+D k=3 | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=1.6s | NRMSE=2.224
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.87s | NRMSE=3.880
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.63s | NRMSE=1.861
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.99s | NRMSE=2.300
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S:XYZ | Rz=False | time=0.83s | NRMSE=2.443
+G1 depth=3 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.23s | NRMSE=2.100
+G1 depth=3 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.23s | NRMSE=1.897
+G1 depth=10 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.37s | NRMSE=1.966
+G1 depth=10 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.25s | NRMSE=2.055
+G2 depth=3 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.19s | NRMSE=1.595
+G2 depth=3 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.21s | NRMSE=1.897
+G2 depth=10 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.26s | NRMSE=1.503
+G2 depth=10 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.25s | NRMSE=1.929
+G3 depth=3 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.19s | NRMSE=1.757
+G3 depth=3 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.21s | NRMSE=1.897
+G3 depth=10 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.26s | NRMSE=1.915
+G3 depth=10 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.26s | NRMSE=2.035
+MG depth=3 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.26s | NRMSE=1.083
+MG depth=3 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=1.456
+MG depth=10 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.59s | NRMSE=1.542
+MG depth=10 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.7s | NRMSE=2.232
+D k=2 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=1.02s | NRMSE=2.191
+D k=2 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=1.64s | NRMSE=2.154
+D k=3 | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=1.1s | NRMSE=2.138
+D k=3 | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.68s | NRMSE=1.943
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.37s | NRMSE=2.051
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.34s | NRMSE=1.939
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.72s | NRMSE=1.494
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S:XZ | Rz=False | time=0.89s | NRMSE=1.623
+G1 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.24s | NRMSE=2.147
+G1 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.22s | NRMSE=2.157
+G1 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.3s | NRMSE=2.181
+G1 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.43s | NRMSE=2.419
+G2 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.23s | NRMSE=1.813
+G2 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.23s | NRMSE=2.157
+G2 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.31s | NRMSE=1.480
+G2 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.28s | NRMSE=2.433
+G3 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.22s | NRMSE=1.828
+G3 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.22s | NRMSE=2.157
+G3 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.28s | NRMSE=1.897
+G3 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.28s | NRMSE=2.442
+MG depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.27s | NRMSE=3.347
+MG depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.24s | NRMSE=2.667
+MG depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.33s | NRMSE=4.286
+MG depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.32s | NRMSE=2.355
+D k=2 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=2.01s | NRMSE=2.065
+D k=2 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=1.59s | NRMSE=2.457
+D k=3 | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.95s | NRMSE=2.081
+D k=3 | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=1.35s | NRMSE=2.173
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=1.31s | NRMSE=2.283
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.83s | NRMSE=1.974
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.57s | NRMSE=4.108
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+P:XZ | Rz=False | time=0.85s | NRMSE=2.088
+G1 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.4s | NRMSE=1.618
+G1 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.55s | NRMSE=1.807
+G1 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.41s | NRMSE=2.077
+G1 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.46s | NRMSE=2.479
+G2 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.44s | NRMSE=2.383
+G2 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.45s | NRMSE=1.807
+G2 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.51s | NRMSE=1.378
+G2 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.4s | NRMSE=2.386
+G3 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.54s | NRMSE=2.566
+G3 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.34s | NRMSE=1.807
+G3 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.41s | NRMSE=2.434
+G3 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.44s | NRMSE=2.410
+MG depth=3 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.44s | NRMSE=2.613
+MG depth=3 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.32s | NRMSE=2.490
+MG depth=10 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.4s | NRMSE=2.383
+MG depth=10 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.62s | NRMSE=2.878
+D k=2 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.91s | NRMSE=2.311
+D k=2 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.39s | NRMSE=1.351
+D k=3 | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.03s | NRMSE=1.166
+D k=3 | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.87s | NRMSE=3.179
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.39s | NRMSE=3.416
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.53s | NRMSE=2.303
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.54s | NRMSE=2.055
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.51s | NRMSE=3.317
+G1 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.34s | NRMSE=1.618
+G1 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.38s | NRMSE=2.307
+G1 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.44s | NRMSE=1.826
+G1 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.43s | NRMSE=2.650
+G2 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.35s | NRMSE=2.383
+G2 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.33s | NRMSE=2.307
+G2 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.43s | NRMSE=1.953
+G2 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.47s | NRMSE=1.857
+G3 depth=3 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.35s | NRMSE=2.566
+G3 depth=3 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.34s | NRMSE=2.307
+G3 depth=10 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.37s | NRMSE=2.396
+G3 depth=10 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.4s | NRMSE=2.429
+MG depth=3 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.37s | NRMSE=2.222
+MG depth=3 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.37s | NRMSE=3.309
+MG depth=10 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.45s | NRMSE=2.364
+MG depth=10 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.43s | NRMSE=1.804
+D k=2 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.38s | NRMSE=2.311
+D k=2 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.44s | NRMSE=1.848
+D k=3 | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.52s | NRMSE=1.892
+D k=3 | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.57s | NRMSE=3.175
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.54s | NRMSE=3.250
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.93s | NRMSE=3.209
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.6s | NRMSE=2.469
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=0.67s | NRMSE=3.014
+G1 depth=3 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.37s | NRMSE=1.623
+G1 depth=3 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.25s | NRMSE=2.310
+G1 depth=10 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.29s | NRMSE=1.985
+G1 depth=10 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.29s | NRMSE=1.982
+G2 depth=3 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.25s | NRMSE=2.128
+G2 depth=3 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.25s | NRMSE=2.310
+G2 depth=10 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.29s | NRMSE=1.556
+G2 depth=10 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.31s | NRMSE=1.714
+G3 depth=3 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.36s | NRMSE=2.095
+G3 depth=3 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.27s | NRMSE=2.310
+G3 depth=10 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.3s | NRMSE=2.307
+G3 depth=10 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.3s | NRMSE=2.062
+MG depth=3 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.73s | NRMSE=3.852
+MG depth=3 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.66s | NRMSE=11.707
+MG depth=10 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.99s | NRMSE=3.767
+MG depth=10 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.83s | NRMSE=13.464
+D k=2 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.22s | NRMSE=2.193
+D k=2 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.14s | NRMSE=2.268
+D k=3 | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.65s | NRMSE=2.337
+D k=3 | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.85s | NRMSE=2.435
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.37s | NRMSE=3.759
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.4s | NRMSE=1.994
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.49s | NRMSE=1.958
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=1 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.58s | NRMSE=2.535
+G1 depth=3 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.59s | NRMSE=4.416
+G1 depth=3 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.64s | NRMSE=2.369
+G1 depth=10 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.72s | NRMSE=2.249
+G1 depth=10 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.7s | NRMSE=2.330
+G2 depth=3 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.54s | NRMSE=4.416
+G2 depth=3 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.54s | NRMSE=3.672
+G2 depth=10 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.7s | NRMSE=1.964
+G2 depth=10 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.73s | NRMSE=2.055
+G3 depth=3 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.44s | NRMSE=4.416
+G3 depth=3 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.28s | NRMSE=4.441
+G3 depth=10 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.34s | NRMSE=1.828
+G3 depth=10 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.35s | NRMSE=2.154
+MG depth=3 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.3s | NRMSE=2.497
+MG depth=3 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.32s | NRMSE=1.602
+MG depth=10 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=1.01s | NRMSE=1.883
+MG depth=10 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.83s | NRMSE=1.681
+D k=2 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=3.55s | NRMSE=3.270
+D k=2 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=3.06s | NRMSE=4.926
+D k=3 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=3.98s | NRMSE=4.221
+D k=3 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=2.68s | NRMSE=4.193
+D k=4 | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=2.35s | NRMSE=3.394
+D k=4 | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=1.54s | NRMSE=3.784
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.53s | NRMSE=1.718
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.67s | NRMSE=2.120
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=0.78s | NRMSE=1.832
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S:XYZ | Rz=False | time=1.53s | NRMSE=2.058
+G1 depth=3 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.82s | NRMSE=4.061
+G1 depth=3 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.68s | NRMSE=3.356
+G1 depth=10 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.02s | NRMSE=2.205
+G1 depth=10 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.14s | NRMSE=2.298
+G2 depth=3 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.88s | NRMSE=4.945
+G2 depth=3 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.74s | NRMSE=2.512
+G2 depth=10 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=1.998
+G2 depth=10 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=1.729
+G3 depth=3 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.44s | NRMSE=4.965
+G3 depth=3 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.52s | NRMSE=3.062
+G3 depth=10 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.61s | NRMSE=2.012
+G3 depth=10 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.58s | NRMSE=2.183
+MG depth=3 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.55s | NRMSE=1.458
+MG depth=3 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.51s | NRMSE=2.166
+MG depth=10 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=0.42s | NRMSE=1.730
+MG depth=10 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.1s | NRMSE=1.777
+D k=2 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=4.49s | NRMSE=3.730
+D k=2 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=2.73s | NRMSE=4.531
+D k=3 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=5.01s | NRMSE=3.815
+D k=3 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=2.86s | NRMSE=4.349
+D k=4 | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.54s | NRMSE=4.059
+D k=4 | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=2.07s | NRMSE=4.826
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.74s | NRMSE=1.317
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.27s | NRMSE=1.782
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=2.42s | NRMSE=2.312
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S:XZ | Rz=False | time=1.61s | NRMSE=1.508
+G1 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.89s | NRMSE=5.234
+G1 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.69s | NRMSE=6.219
+G1 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.7s | NRMSE=4.512
+G1 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.95s | NRMSE=2.684
+G2 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.96s | NRMSE=6.680
+G2 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.76s | NRMSE=4.801
+G2 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.41s | NRMSE=2.525
+G2 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.44s | NRMSE=2.754
+G3 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1s | NRMSE=6.868
+G3 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.04s | NRMSE=5.827
+G3 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.87s | NRMSE=3.729
+G3 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.08s | NRMSE=2.570
+MG depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.39s | NRMSE=2.135
+MG depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.82s | NRMSE=3.257
+MG depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.09s | NRMSE=1.964
+MG depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.4s | NRMSE=2.080
+D k=2 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=6.94s | NRMSE=3.134
+D k=2 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=5.16s | NRMSE=4.828
+D k=3 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=6.93s | NRMSE=5.491
+D k=3 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=4.52s | NRMSE=4.172
+D k=4 | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=2.97s | NRMSE=6.146
+D k=4 | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.38s | NRMSE=4.307
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=0.96s | NRMSE=1.907
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.56s | NRMSE=1.970
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.37s | NRMSE=2.483
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+P:XZ | Rz=False | time=1.41s | NRMSE=1.904
+G1 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.65s | NRMSE=1.884
+G1 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.63s | NRMSE=4.825
+G1 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.96s | NRMSE=12.440
+G1 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.88s | NRMSE=2.933
+G2 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.51s | NRMSE=2.087
+G2 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.6s | NRMSE=7.475
+G2 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.81s | NRMSE=3.604
+G2 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.64s | NRMSE=2.752
+G3 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.48s | NRMSE=1.974
+G3 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.74s | NRMSE=14.847
+G3 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.63s | NRMSE=3.981
+G3 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.55s | NRMSE=2.946
+MG depth=3 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.55s | NRMSE=1.654
+MG depth=3 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.71s | NRMSE=1.128
+MG depth=10 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.59s | NRMSE=2.100
+MG depth=10 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.83s | NRMSE=2.181
+D k=2 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.71s | NRMSE=4.286
+D k=2 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.7s | NRMSE=6.063
+D k=3 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.28s | NRMSE=6.206
+D k=3 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.69s | NRMSE=3.689
+D k=4 | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.46s | NRMSE=6.757
+D k=4 | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.72s | NRMSE=4.739
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.91s | NRMSE=1.765
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.9s | NRMSE=2.197
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.4s | NRMSE=1.932
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.06s | NRMSE=2.436
+G1 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.19s | NRMSE=1.884
+G1 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.67s | NRMSE=3.764
+G1 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.01s | NRMSE=13.400
+G1 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.08s | NRMSE=3.800
+G2 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1s | NRMSE=2.086
+G2 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.03s | NRMSE=6.171
+G2 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.7s | NRMSE=1.755
+G2 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.21s | NRMSE=2.696
+G3 depth=3 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.69s | NRMSE=1.974
+G3 depth=3 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.97s | NRMSE=3.633
+G3 depth=10 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.37s | NRMSE=5.560
+G3 depth=10 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.41s | NRMSE=3.756
+MG depth=3 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.31s | NRMSE=2.325
+MG depth=3 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=0.9s | NRMSE=1.171
+MG depth=10 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.33s | NRMSE=2.221
+MG depth=10 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.87s | NRMSE=2.806
+D k=2 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=5.33s | NRMSE=4.454
+D k=2 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=4.5s | NRMSE=6.023
+D k=3 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=3.69s | NRMSE=5.957
+D k=3 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=3.32s | NRMSE=5.310
+D k=4 | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=2.41s | NRMSE=7.165
+D k=4 | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.91s | NRMSE=4.261
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.02s | NRMSE=2.999
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.26s | NRMSE=2.876
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.14s | NRMSE=2.515
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.16s | NRMSE=2.915
+G1 depth=3 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.42s | NRMSE=4.403
+G1 depth=3 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.75s | NRMSE=2.802
+G1 depth=10 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.19s | NRMSE=2.023
+G1 depth=10 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.05s | NRMSE=3.882
+G2 depth=3 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.6s | NRMSE=4.407
+G2 depth=3 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.5s | NRMSE=3.122
+G2 depth=10 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.53s | NRMSE=2.268
+G2 depth=10 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.91s | NRMSE=2.261
+G3 depth=3 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.61s | NRMSE=4.410
+G3 depth=3 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.45s | NRMSE=9.493
+G3 depth=10 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.49s | NRMSE=2.270
+G3 depth=10 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.6s | NRMSE=2.354
+MG depth=3 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.5s | NRMSE=3.027
+MG depth=3 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.43s | NRMSE=1.821
+MG depth=10 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.51s | NRMSE=2.694
+MG depth=10 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.57s | NRMSE=1.972
+D k=2 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.62s | NRMSE=4.835
+D k=2 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.4s | NRMSE=4.877
+D k=3 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.8s | NRMSE=5.016
+D k=3 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.37s | NRMSE=5.910
+D k=4 | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.27s | NRMSE=5.557
+D k=4 | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.07s | NRMSE=5.512
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.78s | NRMSE=2.502
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.68s | NRMSE=2.321
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.7s | NRMSE=2.472
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.81s | NRMSE=2.944
+G1 depth=3 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.49s | NRMSE=4.482
+G1 depth=3 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.29s | NRMSE=3.520
+G1 depth=10 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.37s | NRMSE=5.444
+G1 depth=10 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.54s | NRMSE=4.655
+G2 depth=3 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.61s | NRMSE=4.482
+G2 depth=3 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.47s | NRMSE=3.520
+G2 depth=10 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.36s | NRMSE=5.444
+G2 depth=10 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.35s | NRMSE=4.655
+G3 depth=3 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.3s | NRMSE=4.482
+G3 depth=3 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.29s | NRMSE=3.520
+G3 depth=10 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.35s | NRMSE=5.444
+G3 depth=10 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.65s | NRMSE=4.655
+MG depth=3 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.61s | NRMSE=3.215
+MG depth=3 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.67s | NRMSE=1.778
+MG depth=10 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.8s | NRMSE=2.470
+MG depth=10 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.45s | NRMSE=1.866
+D k=2 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=5.71s | NRMSE=4.779
+D k=2 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=4.61s | NRMSE=3.389
+D k=3 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=5.87s | NRMSE=3.935
+D k=3 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=6.44s | NRMSE=3.360
+D k=5 | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=2.79s | NRMSE=3.557
+D k=5 | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=2.79s | NRMSE=3.374
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.91s | NRMSE=2.021
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=0.95s | NRMSE=1.857
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=1.15s | NRMSE=2.314
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S:XYZ | Rz=False | time=1.16s | NRMSE=2.673
+G1 depth=3 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.55s | NRMSE=3.968
+G1 depth=3 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.49s | NRMSE=4.297
+G1 depth=10 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.49s | NRMSE=4.057
+G1 depth=10 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.49s | NRMSE=4.017
+G2 depth=3 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.54s | NRMSE=4.288
+G2 depth=3 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.6s | NRMSE=4.297
+G2 depth=10 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.7s | NRMSE=2.578
+G2 depth=10 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.37s | NRMSE=2.866
+G3 depth=3 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.3s | NRMSE=3.950
+G3 depth=3 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.51s | NRMSE=4.297
+G3 depth=10 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.75s | NRMSE=2.338
+G3 depth=10 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.96s | NRMSE=3.704
+MG depth=3 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.64s | NRMSE=1.429
+MG depth=3 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=1.843
+MG depth=10 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.5s | NRMSE=2.880
+MG depth=10 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=1.43s | NRMSE=1.672
+D k=2 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=6.34s | NRMSE=4.600
+D k=2 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=5.36s | NRMSE=4.092
+D k=3 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=8.25s | NRMSE=4.277
+D k=3 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=8.15s | NRMSE=5.494
+D k=5 | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=3.29s | NRMSE=4.152
+D k=5 | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=1.6s | NRMSE=3.902
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=0.64s | NRMSE=2.022
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=1.1s | NRMSE=1.578
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=2.1s | NRMSE=1.541
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S:XZ | Rz=False | time=1.35s | NRMSE=2.051
+G1 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.98s | NRMSE=4.422
+G1 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.47s | NRMSE=6.337
+G1 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.57s | NRMSE=7.259
+G1 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.6s | NRMSE=5.824
+G2 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.64s | NRMSE=5.984
+G2 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.76s | NRMSE=6.337
+G2 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.74s | NRMSE=2.642
+G2 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.74s | NRMSE=2.175
+G3 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.68s | NRMSE=5.407
+G3 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.5s | NRMSE=6.337
+G3 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.62s | NRMSE=3.368
+G3 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.9s | NRMSE=2.028
+MG depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.51s | NRMSE=3.232
+MG depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.66s | NRMSE=2.185
+MG depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=1.05s | NRMSE=2.742
+MG depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=0.58s | NRMSE=3.378
+D k=2 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=4.55s | NRMSE=4.432
+D k=2 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=5.85s | NRMSE=4.461
+D k=3 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=7.21s | NRMSE=5.330
+D k=3 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=6.72s | NRMSE=5.287
+D k=5 | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=2.96s | NRMSE=4.212
+D k=5 | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=2.41s | NRMSE=4.683
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=1.29s | NRMSE=2.013
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=1.01s | NRMSE=2.257
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=1.19s | NRMSE=2.339
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+P:XZ | Rz=False | time=3.02s | NRMSE=2.444
+G1 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.28s | NRMSE=2.017
+G1 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.9s | NRMSE=1.633
+G1 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.05s | NRMSE=4.707
+G1 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.2s | NRMSE=5.027
+G2 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1s | NRMSE=1.748
+G2 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.04s | NRMSE=1.633
+G2 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=4.5s | NRMSE=4.421
+G2 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.54s | NRMSE=5.874
+G3 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.03s | NRMSE=1.529
+G3 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.74s | NRMSE=1.633
+G3 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.02s | NRMSE=4.703
+G3 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.12s | NRMSE=5.119
+MG depth=3 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.05s | NRMSE=2.710
+MG depth=3 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.23s | NRMSE=2.249
+MG depth=10 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.99s | NRMSE=3.974
+MG depth=10 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.7s | NRMSE=3.051
+D k=2 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=9.48s | NRMSE=6.448
+D k=2 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=7.34s | NRMSE=3.957
+D k=3 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=13.73s | NRMSE=5.252
+D k=3 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=14.56s | NRMSE=5.252
+D k=5 | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=3.94s | NRMSE=4.557
+D k=5 | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=5.56s | NRMSE=4.807
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.16s | NRMSE=1.859
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.25s | NRMSE=2.333
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.47s | NRMSE=3.203
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.99s | NRMSE=2.333
+G1 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.91s | NRMSE=2.014
+G1 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.7s | NRMSE=0.981
+G1 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.04s | NRMSE=3.621
+G1 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.13s | NRMSE=5.132
+G2 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.4s | NRMSE=1.710
+G2 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.36s | NRMSE=0.981
+G2 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.91s | NRMSE=4.618
+G2 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.77s | NRMSE=6.584
+G3 depth=3 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.35s | NRMSE=1.465
+G3 depth=3 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.51s | NRMSE=0.981
+G3 depth=10 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.54s | NRMSE=3.687
+G3 depth=10 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.21s | NRMSE=6.173
+MG depth=3 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.5s | NRMSE=1.221
+MG depth=3 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.96s | NRMSE=2.988
+MG depth=10 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.22s | NRMSE=0.935
+MG depth=10 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.97s | NRMSE=2.048
+D k=2 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.98s | NRMSE=2.293
+D k=2 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.62s | NRMSE=3.022
+D k=3 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=10.82s | NRMSE=2.904
+D k=3 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=12.65s | NRMSE=2.776
+D k=5 | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=7.63s | NRMSE=3.287
+D k=5 | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.1s | NRMSE=2.897
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.23s | NRMSE=1.989
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.02s | NRMSE=2.695
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=5.1s | NRMSE=1.406
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.61s | NRMSE=2.056
+G1 depth=3 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.71s | NRMSE=4.560
+G1 depth=3 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.86s | NRMSE=3.364
+G1 depth=10 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=0.86s | NRMSE=4.542
+G1 depth=10 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.63s | NRMSE=2.663
+G2 depth=3 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.24s | NRMSE=4.560
+G2 depth=3 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.3s | NRMSE=3.364
+G2 depth=10 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.5s | NRMSE=5.076
+G2 depth=10 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.06s | NRMSE=4.413
+G3 depth=3 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.16s | NRMSE=4.560
+G3 depth=3 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.26s | NRMSE=3.364
+G3 depth=10 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.39s | NRMSE=6.111
+G3 depth=10 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.05s | NRMSE=2.194
+MG depth=3 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.25s | NRMSE=9.929
+MG depth=3 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.04s | NRMSE=1.975
+MG depth=10 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.55s | NRMSE=3.480
+MG depth=10 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.39s | NRMSE=2.750
+D k=2 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=7.92s | NRMSE=4.146
+D k=2 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=5.38s | NRMSE=5.442
+D k=3 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=8.9s | NRMSE=3.648
+D k=3 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=10.57s | NRMSE=3.943
+D k=5 | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.08s | NRMSE=6.136
+D k=5 | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.67s | NRMSE=5.693
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.71s | NRMSE=2.426
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.86s | NRMSE=3.960
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.19s | NRMSE=2.263
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=2 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.34s | NRMSE=2.938
+G1 depth=3 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.44s | NRMSE=3.353
+G1 depth=3 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.35s | NRMSE=30.193
+G1 depth=10 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.42s | NRMSE=42.315
+G1 depth=10 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.43s | NRMSE=3.719
+G2 depth=3 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.36s | NRMSE=3.353
+G2 depth=3 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.35s | NRMSE=13.317
+G2 depth=10 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.42s | NRMSE=53.010
+G2 depth=10 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.41s | NRMSE=3.187
+G3 depth=3 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.37s | NRMSE=3.353
+G3 depth=3 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.35s | NRMSE=19.035
+G3 depth=10 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.41s | NRMSE=51.367
+G3 depth=10 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.41s | NRMSE=3.000
+MG depth=3 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.38s | NRMSE=38.105
+MG depth=3 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.38s | NRMSE=3.045
+MG depth=10 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.48s | NRMSE=2.204
+MG depth=10 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.49s | NRMSE=2.118
+D k=2 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=5.32s | NRMSE=23.229
+D k=2 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=9.18s | NRMSE=23.049
+D k=3 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=17.69s | NRMSE=29.859
+D k=3 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=15.38s | NRMSE=20.823
+D k=6 | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=3.68s | NRMSE=24.871
+D k=6 | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=2.71s | NRMSE=36.295
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=1.36s | NRMSE=2.267
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=0.81s | NRMSE=2.071
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=1.53s | NRMSE=2.068
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S:XYZ | Rz=False | time=1.41s | NRMSE=1.962
+G1 depth=3 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.38s | NRMSE=36.008
+G1 depth=3 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.34s | NRMSE=13.514
+G1 depth=10 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.42s | NRMSE=54.450
+G1 depth=10 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.45s | NRMSE=3.154
+G2 depth=3 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=18.539
+G2 depth=3 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=17.364
+G2 depth=10 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.39s | NRMSE=48.514
+G2 depth=10 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.39s | NRMSE=3.313
+G3 depth=3 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=17.436
+G3 depth=3 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.32s | NRMSE=18.122
+G3 depth=10 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.38s | NRMSE=48.553
+G3 depth=10 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.39s | NRMSE=2.824
+MG depth=3 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.35s | NRMSE=4.884
+MG depth=3 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.33s | NRMSE=2.296
+MG depth=10 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.48s | NRMSE=1.838
+MG depth=10 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.59s | NRMSE=1.940
+D k=2 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=5.86s | NRMSE=26.613
+D k=2 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=4.9s | NRMSE=23.183
+D k=3 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=9.61s | NRMSE=20.756
+D k=3 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=13.05s | NRMSE=25.893
+D k=6 | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=5.57s | NRMSE=24.997
+D k=6 | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=3.3s | NRMSE=30.517
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=0.87s | NRMSE=2.121
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=1.52s | NRMSE=1.536
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=2.29s | NRMSE=1.902
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S:XZ | Rz=False | time=1.63s | NRMSE=1.932
+G1 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.84s | NRMSE=8.268
+G1 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.65s | NRMSE=10.655
+G1 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.78s | NRMSE=16.108
+G1 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.91s | NRMSE=27.141
+G2 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.89s | NRMSE=4.104
+G2 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.8s | NRMSE=6.738
+G2 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.94s | NRMSE=5.251
+G2 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=1.2s | NRMSE=24.659
+G3 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=1.07s | NRMSE=3.938
+G3 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.85s | NRMSE=5.424
+G3 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.78s | NRMSE=5.522
+G3 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.7s | NRMSE=21.418
+MG depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.72s | NRMSE=4.087
+MG depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.82s | NRMSE=2.487
+MG depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=1.76s | NRMSE=2.184
+MG depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=0.73s | NRMSE=2.075
+D k=2 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=7.81s | NRMSE=38.489
+D k=2 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=7.77s | NRMSE=26.775
+D k=3 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=12.58s | NRMSE=29.569
+D k=3 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=12.32s | NRMSE=22.841
+D k=6 | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=5.02s | NRMSE=29.756
+D k=6 | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=6.68s | NRMSE=32.318
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=2.96s | NRMSE=1.871
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=1.56s | NRMSE=2.489
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=2.13s | NRMSE=2.155
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+P:XZ | Rz=False | time=1.84s | NRMSE=1.999
+G1 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.42s | NRMSE=1.606
+G1 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.98s | NRMSE=1.444
+G1 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.06s | NRMSE=3.588
+G1 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.03s | NRMSE=40.728
+G2 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.91s | NRMSE=1.596
+G2 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.98s | NRMSE=2.054
+G2 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.71s | NRMSE=2.766
+G2 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.9s | NRMSE=12.836
+G3 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.22s | NRMSE=1.596
+G3 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.32s | NRMSE=1.402
+G3 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.71s | NRMSE=1.911
+G3 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.42s | NRMSE=20.649
+MG depth=3 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=0.7s | NRMSE=80.560
+MG depth=3 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.46s | NRMSE=1.642
+MG depth=10 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.21s | NRMSE=2.325
+MG depth=10 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=5.86s | NRMSE=2.195
+D k=2 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=14.79s | NRMSE=25.587
+D k=2 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=6.63s | NRMSE=25.071
+D k=3 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=13.34s | NRMSE=40.632
+D k=3 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=25.37s | NRMSE=26.078
+D k=6 | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=9.99s | NRMSE=32.825
+D k=6 | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=9s | NRMSE=25.249
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.58s | NRMSE=1.385
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=4.14s | NRMSE=2.145
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.92s | NRMSE=2.071
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.07s | NRMSE=2.184
+G1 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.67s | NRMSE=1.598
+G1 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=2.64s | NRMSE=1.281
+G1 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.86s | NRMSE=2.676
+G1 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=2.45s | NRMSE=14.615
+G2 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=13.74s | NRMSE=1.452
+G2 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=6.41s | NRMSE=1.663
+G2 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=4.26s | NRMSE=2.883
+G2 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.63s | NRMSE=13.804
+G3 depth=3 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=8.46s | NRMSE=1.529
+G3 depth=3 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.72s | NRMSE=1.979
+G3 depth=10 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.65s | NRMSE=1.185
+G3 depth=10 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=9.06s | NRMSE=23.443
+MG depth=3 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.14s | NRMSE=60.715
+MG depth=3 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=11.48s | NRMSE=1.931
+MG depth=10 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=6.01s | NRMSE=7.073
+MG depth=10 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=1.75s | NRMSE=6.761
+D k=2 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=11.84s | NRMSE=24.433
+D k=2 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=8.19s | NRMSE=94.231
+D k=3 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=26.11s | NRMSE=36.981
+D k=3 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=22.64s | NRMSE=35.047
+D k=6 | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=17.39s | NRMSE=136.632
+D k=6 | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=17.91s | NRMSE=38.101
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=9.55s | NRMSE=5.466
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=11.95s | NRMSE=6.011
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=11.45s | NRMSE=3.581
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=13.64s | NRMSE=6.751
+G1 depth=3 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.55s | NRMSE=3.353
+G1 depth=3 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.68s | NRMSE=4.967
+G1 depth=10 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=4.54s | NRMSE=45.029
+G1 depth=10 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.3s | NRMSE=24.202
+G2 depth=3 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.33s | NRMSE=3.353
+G2 depth=3 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.4s | NRMSE=4.578
+G2 depth=10 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.67s | NRMSE=56.898
+G2 depth=10 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=5.81s | NRMSE=5.299
+G3 depth=3 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.17s | NRMSE=3.353
+G3 depth=3 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.15s | NRMSE=6.500
+G3 depth=10 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=4.84s | NRMSE=46.063
+G3 depth=10 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.87s | NRMSE=7.879
+MG depth=3 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=0.99s | NRMSE=32.703
+MG depth=3 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.54s | NRMSE=2.887
+MG depth=10 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=4.5s | NRMSE=2.138
+MG depth=10 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.42s | NRMSE=2.222
+D k=2 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=18.37s | NRMSE=48.614
+D k=2 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=10.81s | NRMSE=60.604
+D k=3 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=25.67s | NRMSE=48.684
+D k=3 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=22.18s | NRMSE=81.301
+D k=6 | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=4.25s | NRMSE=50.237
+D k=6 | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.74s | NRMSE=62.595
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.14s | NRMSE=2.130
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.13s | NRMSE=2.616
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.07s | NRMSE=2.265
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.67s | NRMSE=2.284
+G1 depth=3 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.97s | NRMSE=2.749
+G1 depth=3 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.97s | NRMSE=28.456
+G1 depth=10 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.95s | NRMSE=84.350
+G1 depth=10 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=1.36s | NRMSE=40.370
+G2 depth=3 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.86s | NRMSE=2.749
+G2 depth=3 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=1.33s | NRMSE=28.456
+G2 depth=10 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.62s | NRMSE=84.350
+G2 depth=10 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.87s | NRMSE=43.759
+G3 depth=3 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.84s | NRMSE=2.749
+G3 depth=3 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.65s | NRMSE=28.456
+G3 depth=10 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.71s | NRMSE=84.350
+G3 depth=10 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.64s | NRMSE=127.941
+MG depth=3 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.5s | NRMSE=4.216
+MG depth=3 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.73s | NRMSE=4.036
+MG depth=10 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=1.28s | NRMSE=4.290
+MG depth=10 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=0.64s | NRMSE=1.764
+D k=2 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=9.82s | NRMSE=14.706
+D k=2 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=13.39s | NRMSE=27.693
+D k=3 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=24.7s | NRMSE=20.925
+D k=3 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=26.55s | NRMSE=24.152
+D k=7 | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=5.48s | NRMSE=38.011
+D k=7 | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=5.49s | NRMSE=27.905
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=1.23s | NRMSE=2.048
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=2.36s | NRMSE=2.416
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=3.93s | NRMSE=2.427
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S:XYZ | Rz=False | time=3.22s | NRMSE=2.349
+G1 depth=3 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.59s | NRMSE=42.294
+G1 depth=3 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.55s | NRMSE=32.100
+G1 depth=10 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.61s | NRMSE=16.457
+G1 depth=10 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.65s | NRMSE=17.861
+G2 depth=3 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.85s | NRMSE=48.271
+G2 depth=3 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.56s | NRMSE=32.100
+G2 depth=10 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.56s | NRMSE=13.798
+G2 depth=10 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.64s | NRMSE=31.967
+G3 depth=3 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.4s | NRMSE=48.278
+G3 depth=3 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.52s | NRMSE=32.100
+G3 depth=10 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.44s | NRMSE=14.825
+G3 depth=10 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.46s | NRMSE=26.070
+MG depth=3 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.46s | NRMSE=2.576
+MG depth=3 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.44s | NRMSE=2.218
+MG depth=10 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.55s | NRMSE=2.446
+MG depth=10 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=0.55s | NRMSE=1.752
+D k=2 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=12.3s | NRMSE=21.100
+D k=2 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=12.76s | NRMSE=25.767
+D k=3 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=36.84s | NRMSE=30.482
+D k=3 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=44.35s | NRMSE=28.283
+D k=7 | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=11.72s | NRMSE=17.671
+D k=7 | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=9.24s | NRMSE=27.329
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=2.21s | NRMSE=2.208
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=1.67s | NRMSE=2.191
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=4.42s | NRMSE=1.690
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S:XZ | Rz=False | time=2.71s | NRMSE=1.967
+G1 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.54s | NRMSE=2.183
+G1 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.68s | NRMSE=4.314
+G1 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.82s | NRMSE=5.430
+G1 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.65s | NRMSE=3.220
+G2 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.89s | NRMSE=2.567
+G2 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.02s | NRMSE=4.314
+G2 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.46s | NRMSE=4.558
+G2 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.07s | NRMSE=3.590
+G3 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.23s | NRMSE=2.400
+G3 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=3.19s | NRMSE=4.314
+G3 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.27s | NRMSE=5.750
+G3 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.81s | NRMSE=3.373
+MG depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.15s | NRMSE=4.522
+MG depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=3.04s | NRMSE=1.640
+MG depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.09s | NRMSE=4.931
+MG depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.68s | NRMSE=2.195
+D k=2 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=17.18s | NRMSE=29.791
+D k=2 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=16.74s | NRMSE=27.756
+D k=3 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=31.21s | NRMSE=20.017
+D k=3 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=29.53s | NRMSE=34.258
+D k=7 | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=6.69s | NRMSE=29.114
+D k=7 | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=6.66s | NRMSE=30.264
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.92s | NRMSE=2.175
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=1.93s | NRMSE=2.241
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=2.39s | NRMSE=1.872
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+P:XZ | Rz=False | time=3.13s | NRMSE=2.548
+G1 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=5.39s | NRMSE=1.815
+G1 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.97s | NRMSE=1.138
+G1 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=4.2s | NRMSE=1.058
+G1 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.24s | NRMSE=2.285
+G2 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.14s | NRMSE=0.975
+G2 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=3.29s | NRMSE=1.138
+G2 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.22s | NRMSE=1.147
+G2 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.97s | NRMSE=2.472
+G3 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=0.91s | NRMSE=1.532
+G3 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.02s | NRMSE=1.138
+G3 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.9s | NRMSE=1.137
+G3 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.98s | NRMSE=2.212
+MG depth=3 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.02s | NRMSE=11.337
+MG depth=3 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.05s | NRMSE=2.880
+MG depth=10 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.76s | NRMSE=5.643
+MG depth=10 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.03s | NRMSE=2.777
+D k=2 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=9.73s | NRMSE=28.402
+D k=2 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=9.99s | NRMSE=24.140
+D k=3 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=22.25s | NRMSE=24.797
+D k=3 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=29.47s | NRMSE=26.654
+D k=7 | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=7.44s | NRMSE=20.974
+D k=7 | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=7.35s | NRMSE=27.854
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.79s | NRMSE=2.077
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=4.02s | NRMSE=2.221
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=3.29s | NRMSE=2.209
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+P:XYZ | Rz=False | time=3.38s | NRMSE=2.113
+G1 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.05s | NRMSE=1.810
+G1 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.49s | NRMSE=1.172
+G1 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=13.02s | NRMSE=1.574
+G1 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.11s | NRMSE=2.188
+G2 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=6.16s | NRMSE=1.130
+G2 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.42s | NRMSE=1.172
+G2 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.74s | NRMSE=1.065
+G2 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.37s | NRMSE=2.268
+G3 depth=3 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.11s | NRMSE=1.580
+G3 depth=3 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=9.07s | NRMSE=1.172
+G3 depth=10 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.27s | NRMSE=1.072
+G3 depth=10 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.15s | NRMSE=1.070
+MG depth=3 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=7.25s | NRMSE=47.520
+MG depth=3 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=1.96s | NRMSE=8.330
+MG depth=10 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=6.13s | NRMSE=1.703
+MG depth=10 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.34s | NRMSE=1.514
+D k=2 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=23.51s | NRMSE=2.649
+D k=2 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=20.27s | NRMSE=2.636
+D k=3 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=33.91s | NRMSE=1.949
+D k=3 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=31.39s | NRMSE=2.677
+D k=7 | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=10.88s | NRMSE=2.371
+D k=7 | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=10.5s | NRMSE=2.029
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.64s | NRMSE=1.754
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=8.56s | NRMSE=1.625
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=11.19s | NRMSE=1.546
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=9.23s | NRMSE=1.527
+G1 depth=3 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.88s | NRMSE=3.687
+G1 depth=3 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.24s | NRMSE=1.794
+G1 depth=10 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.54s | NRMSE=2.248
+G1 depth=10 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=1.77s | NRMSE=4.095
+G2 depth=3 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.91s | NRMSE=3.586
+G2 depth=3 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.43s | NRMSE=1.794
+G2 depth=10 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.78s | NRMSE=2.955
+G2 depth=10 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.01s | NRMSE=3.740
+G3 depth=3 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.18s | NRMSE=3.707
+G3 depth=3 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.24s | NRMSE=1.794
+G3 depth=10 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.45s | NRMSE=2.801
+G3 depth=10 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.16s | NRMSE=4.065
+MG depth=3 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.47s | NRMSE=4.110
+MG depth=3 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.24s | NRMSE=3.041
+MG depth=10 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.12s | NRMSE=12.983
+MG depth=10 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.17s | NRMSE=15.207
+D k=2 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=12.14s | NRMSE=34.221
+D k=2 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=10.58s | NRMSE=90.737
+D k=3 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=27.02s | NRMSE=50.807
+D k=3 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=22.26s | NRMSE=51.876
+D k=7 | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=6.43s | NRMSE=31.176
+D k=7 | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=7.43s | NRMSE=25.761
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=12.66s | NRMSE=12.886
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.71s | NRMSE=5.393
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=9.09s | NRMSE=30.849
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=3 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.43s | NRMSE=5.343
+G1 depth=3 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.85s | NRMSE=2.031
+G1 depth=3 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=1.22s | NRMSE=6.389
+G1 depth=10 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.98s | NRMSE=5.377
+G1 depth=10 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.68s | NRMSE=14.948
+G2 depth=3 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=1.04s | NRMSE=2.031
+G2 depth=3 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.62s | NRMSE=6.389
+G2 depth=10 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=1.32s | NRMSE=5.377
+G2 depth=10 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.85s | NRMSE=14.948
+G3 depth=3 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.77s | NRMSE=2.031
+G3 depth=3 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=1.08s | NRMSE=6.389
+G3 depth=10 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.86s | NRMSE=5.377
+G3 depth=10 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=1.29s | NRMSE=14.948
+MG depth=3 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.76s | NRMSE=1663.293
+MG depth=3 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.64s | NRMSE=5.072
+MG depth=10 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.96s | NRMSE=2.503
+MG depth=10 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=0.78s | NRMSE=2.262
+D k=2 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=10.7s | NRMSE=160.981
+D k=2 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=10.21s | NRMSE=171.808
+D k=3 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=53.57s | NRMSE=163.877
+D k=3 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=63.62s | NRMSE=155.770
+D k=8 | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=11.98s | NRMSE=154.028
+D k=8 | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=14.33s | NRMSE=150.791
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=4.29s | NRMSE=2.379
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=2.41s | NRMSE=2.349
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=4.86s | NRMSE=2.228
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S:XYZ | Rz=False | time=4.9s | NRMSE=1.900
+G1 depth=3 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=0.62s | NRMSE=13.670
+G1 depth=3 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=0.82s | NRMSE=261.693
+G1 depth=10 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=0.7s | NRMSE=34.520
+G1 depth=10 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=0.74s | NRMSE=28.047
+G2 depth=3 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=0.98s | NRMSE=10.153
+G2 depth=3 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.39s | NRMSE=190.323
+G2 depth=10 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=2.1s | NRMSE=34.520
+G2 depth=10 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.5s | NRMSE=159.460
+G3 depth=3 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.57s | NRMSE=18.351
+G3 depth=3 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.77s | NRMSE=191.124
+G3 depth=10 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.66s | NRMSE=15.568
+G3 depth=10 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.69s | NRMSE=139.348
+MG depth=3 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.45s | NRMSE=82.706
+MG depth=3 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.21s | NRMSE=3.274
+MG depth=10 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.63s | NRMSE=1.997
+MG depth=10 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.36s | NRMSE=2.441
+D k=2 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=19.28s | NRMSE=183.001
+D k=2 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=18.33s | NRMSE=165.415
+D k=3 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=49.33s | NRMSE=154.822
+D k=3 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=52.83s | NRMSE=182.859
+D k=8 | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=14.33s | NRMSE=162.749
+D k=8 | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=13.24s | NRMSE=187.840
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=2s | NRMSE=2.622
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=1.94s | NRMSE=2.449
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=2.2s | NRMSE=1.799
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S:XZ | Rz=False | time=2.33s | NRMSE=1.587
+G1 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=3.78s | NRMSE=2.745
+G1 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=0.85s | NRMSE=6.933
+G1 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.55s | NRMSE=4.600
+G1 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=3.18s | NRMSE=36.144
+G2 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=4.45s | NRMSE=1.789
+G2 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.84s | NRMSE=5.015
+G2 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.96s | NRMSE=4.600
+G2 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=2.01s | NRMSE=5.198
+G3 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=0.83s | NRMSE=2.993
+G3 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.14s | NRMSE=3.267
+G3 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.56s | NRMSE=5.435
+G3 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.97s | NRMSE=5.772
+MG depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=0.99s | NRMSE=48.791
+MG depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=0.92s | NRMSE=4.885
+MG depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=2.34s | NRMSE=2.315
+MG depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=1.18s | NRMSE=2.823
+D k=2 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=18.79s | NRMSE=519.434
+D k=2 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=18.14s | NRMSE=690.146
+D k=3 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=35.66s | NRMSE=520.444
+D k=3 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=32.25s | NRMSE=506.902
+D k=8 | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=9.78s | NRMSE=539.156
+D k=8 | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=8.71s | NRMSE=648.295
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=2.04s | NRMSE=2.299
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=5.49s | NRMSE=2.127
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=3.72s | NRMSE=2.142
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+P:XZ | Rz=False | time=3.3s | NRMSE=2.043
+G1 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.27s | NRMSE=1.123
+G1 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.26s | NRMSE=1.713
+G1 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.08s | NRMSE=1.527
+G1 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.24s | NRMSE=3.346
+G2 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.08s | NRMSE=1.113
+G2 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.58s | NRMSE=1.896
+G2 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=4.02s | NRMSE=1.527
+G2 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.75s | NRMSE=2.513
+G3 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=4.03s | NRMSE=1.185
+G3 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.4s | NRMSE=1.860
+G3 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.32s | NRMSE=0.797
+G3 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.46s | NRMSE=2.152
+MG depth=3 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.38s | NRMSE=535.536
+MG depth=3 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.97s | NRMSE=9.870
+MG depth=10 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.45s | NRMSE=2.311
+MG depth=10 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=1.56s | NRMSE=1.953
+D k=2 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=12.01s | NRMSE=522.846
+D k=2 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=12.77s | NRMSE=733.799
+D k=3 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=46.49s | NRMSE=500.315
+D k=3 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=56.31s | NRMSE=503.507
+D k=8 | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=22.78s | NRMSE=630.056
+D k=8 | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=13.48s | NRMSE=549.272
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.2s | NRMSE=2.271
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=2.37s | NRMSE=2.191
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.33s | NRMSE=2.046
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+P:XYZ | Rz=False | time=3.31s | NRMSE=1.802
+G1 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=2.32s | NRMSE=1.093
+G1 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=8.47s | NRMSE=1.177
+G1 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=11.89s | NRMSE=1.242
+G1 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=5.04s | NRMSE=1.083
+G2 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=9.24s | NRMSE=0.839
+G2 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=16.65s | NRMSE=1.060
+G2 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=37.22s | NRMSE=1.242
+G2 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=29.72s | NRMSE=2.222
+G3 depth=3 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=7.69s | NRMSE=0.931
+G3 depth=3 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=22.9s | NRMSE=1.036
+G3 depth=10 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=18.24s | NRMSE=0.992
+G3 depth=10 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=15.26s | NRMSE=1.828
+MG depth=3 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=21.57s | NRMSE=1.329
+MG depth=3 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=29.31s | NRMSE=1.404
+MG depth=10 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=35.99s | NRMSE=1.958
+MG depth=10 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=35.09s | NRMSE=1.101
+D k=2 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=60.9s | NRMSE=1.649
+D k=2 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=62.27s | NRMSE=2.704
+D k=3 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=96.15s | NRMSE=2.526
+D k=3 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=59.09s | NRMSE=2.342
+D k=8 | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=12.71s | NRMSE=2.366
+D k=8 | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=26.97s | NRMSE=2.316
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=8.74s | NRMSE=1.411
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=6.61s | NRMSE=1.480
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=14.43s | NRMSE=1.421
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+P+T:XYZ | Rz=False | time=4.9s | NRMSE=1.327
+G1 depth=3 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=4.31s | NRMSE=2.006
+G1 depth=3 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=6.3s | NRMSE=1.983
+G1 depth=10 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=4.02s | NRMSE=2.394
+G1 depth=10 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.94s | NRMSE=3.194
+G2 depth=3 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=9.35s | NRMSE=1.766
+G2 depth=3 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.65s | NRMSE=1.789
+G2 depth=10 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.14s | NRMSE=2.394
+G2 depth=10 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=3.79s | NRMSE=2.092
+G3 depth=3 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.81s | NRMSE=1.873
+G3 depth=3 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=6.59s | NRMSE=2.322
+G3 depth=10 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=8.23s | NRMSE=2.350
+G3 depth=10 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=24.16s | NRMSE=2.232
+MG depth=3 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=9.79s | NRMSE=18.726
+MG depth=3 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=1.9s | NRMSE=5.118
+MG depth=10 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=10.91s | NRMSE=4.803
+MG depth=10 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=10.64s | NRMSE=5.547
+D k=2 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=25.98s | NRMSE=262.495
+D k=2 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=12.76s | NRMSE=230.128
+D k=3 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=37.43s | NRMSE=353.808
+D k=3 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=43.49s | NRMSE=370.671
+D k=8 | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=24.78s | NRMSE=306.659
+D k=8 | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=11.65s | NRMSE=191.288
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=10.55s | NRMSE=8.774
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=2.73s | NRMSE=4.104
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=5.23s | NRMSE=5.949
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=0 | meas=S+T:XYZ | Rz=False | time=5.97s | NRMSE=3.949
+G1 depth=3 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.55s | NRMSE=1.939
+G1 depth=3 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.6s | NRMSE=4.581
+G1 depth=10 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.64s | NRMSE=4.818
+G1 depth=10 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.73s | NRMSE=18.517
+G2 depth=3 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.61s | NRMSE=1.939
+G2 depth=3 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.57s | NRMSE=4.581
+G2 depth=10 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.6s | NRMSE=4.818
+G2 depth=10 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.62s | NRMSE=19.396
+G3 depth=3 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.56s | NRMSE=1.939
+G3 depth=3 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.56s | NRMSE=4.581
+G3 depth=10 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.69s | NRMSE=4.818
+G3 depth=10 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.67s | NRMSE=19.976
+MG depth=3 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=0.59s | NRMSE=67.464
+MG depth=3 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=1.16s | NRMSE=2.744
+MG depth=10 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=1.34s | NRMSE=2.656
+MG depth=10 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=1.48s | NRMSE=2.473
+D k=2 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=12.3s | NRMSE=182.671
+D k=2 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=12.44s | NRMSE=190.379
+D k=3 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=43.33s | NRMSE=178.970
+D k=3 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=43.68s | NRMSE=162.696
+D k=9 | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=19.22s | NRMSE=174.632
+D k=9 | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=13.79s | NRMSE=182.390
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=2.08s | NRMSE=3.055
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=1.93s | NRMSE=1.678
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=3.73s | NRMSE=1.953
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S:XYZ | Rz=False | time=3.48s | NRMSE=1.880
+G1 depth=3 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.74s | NRMSE=21.446
+G1 depth=3 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.85s | NRMSE=236.798
+G1 depth=10 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.62s | NRMSE=248.175
+G1 depth=10 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.55s | NRMSE=495.588
+G2 depth=3 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.5s | NRMSE=9.628
+G2 depth=3 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.45s | NRMSE=236.798
+G2 depth=10 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=1.41s | NRMSE=141.998
+G2 depth=10 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.71s | NRMSE=25.227
+G3 depth=3 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.99s | NRMSE=9.307
+G3 depth=3 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.96s | NRMSE=236.798
+G3 depth=10 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=1.04s | NRMSE=141.166
+G3 depth=10 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.76s | NRMSE=9.693
+MG depth=3 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.47s | NRMSE=14.170
+MG depth=3 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.5s | NRMSE=3.731
+MG depth=10 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.64s | NRMSE=2.136
+MG depth=10 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=0.57s | NRMSE=2.834
+D k=2 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=13.04s | NRMSE=160.212
+D k=2 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=13.03s | NRMSE=163.087
+D k=3 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=43.16s | NRMSE=218.972
+D k=3 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=47.08s | NRMSE=163.946
+D k=9 | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=14.12s | NRMSE=164.979
+D k=9 | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=16.54s | NRMSE=187.603
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=1.89s | NRMSE=2.552
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=1.96s | NRMSE=1.470
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=3.12s | NRMSE=2.061
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S:XZ | Rz=False | time=2.69s | NRMSE=2.354
+G1 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=0.89s | NRMSE=1.663
+G1 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=0.83s | NRMSE=1.795
+G1 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.03s | NRMSE=3.001
+G1 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=0.97s | NRMSE=3.652
+G2 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.06s | NRMSE=1.252
+G2 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.16s | NRMSE=1.795
+G2 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.03s | NRMSE=2.708
+G2 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=3.2s | NRMSE=2.482
+G3 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.15s | NRMSE=1.848
+G3 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.1s | NRMSE=1.795
+G3 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.05s | NRMSE=2.646
+G3 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.1s | NRMSE=2.585
+MG depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.19s | NRMSE=9.859
+MG depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.29s | NRMSE=4.484
+MG depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.06s | NRMSE=2.245
+MG depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=1.59s | NRMSE=2.341
+D k=2 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=12.81s | NRMSE=685.588
+D k=2 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=13.18s | NRMSE=580.463
+D k=3 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=47.51s | NRMSE=619.817
+D k=3 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=46.87s | NRMSE=559.649
+D k=9 | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=16.75s | NRMSE=612.843
+D k=9 | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=15.41s | NRMSE=601.184
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=2.35s | NRMSE=2.386
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=3.02s | NRMSE=1.539
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=3.04s | NRMSE=2.213
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+P:XZ | Rz=False | time=3.05s | NRMSE=2.125
+G1 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.29s | NRMSE=0.944
+G1 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.05s | NRMSE=1.210
+G1 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=6.41s | NRMSE=0.962
+G1 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.62s | NRMSE=1.779
+G2 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.14s | NRMSE=0.761
+G2 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.39s | NRMSE=1.210
+G2 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.3s | NRMSE=0.934
+G2 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.23s | NRMSE=2.021
+G3 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.47s | NRMSE=0.786
+G3 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.5s | NRMSE=1.210
+G3 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.74s | NRMSE=0.903
+G3 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.58s | NRMSE=1.988
+MG depth=3 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.45s | NRMSE=25.425
+MG depth=3 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.79s | NRMSE=1.502
+MG depth=10 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=1.47s | NRMSE=3.939
+MG depth=10 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=11.26s | NRMSE=3.689
+D k=2 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=16.81s | NRMSE=651.066
+D k=2 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=14.38s | NRMSE=501.644
+D k=3 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=48.38s | NRMSE=470.736
+D k=3 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=49.12s | NRMSE=522.440
+D k=9 | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=16.21s | NRMSE=466.616
+D k=9 | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=15.39s | NRMSE=676.189
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.47s | NRMSE=2.106
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=2.69s | NRMSE=2.079
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=3.88s | NRMSE=2.053
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+P:XYZ | Rz=False | time=3.97s | NRMSE=2.248
+G1 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.32s | NRMSE=1.019
+G1 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.82s | NRMSE=1.252
+G1 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.66s | NRMSE=1.038
+G1 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.4s | NRMSE=1.394
+G2 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=10.8s | NRMSE=0.739
+G2 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.96s | NRMSE=1.252
+G2 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.26s | NRMSE=0.732
+G2 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.6s | NRMSE=1.815
+G3 depth=3 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.14s | NRMSE=0.787
+G3 depth=3 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.44s | NRMSE=1.252
+G3 depth=10 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=11.19s | NRMSE=0.785
+G3 depth=10 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=2.64s | NRMSE=1.213
+MG depth=3 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=5.12s | NRMSE=0.823
+MG depth=3 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=3.5s | NRMSE=1.057
+MG depth=10 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=12.58s | NRMSE=1.677
+MG depth=10 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.66s | NRMSE=1.344
+D k=2 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=14.85s | NRMSE=2.022
+D k=2 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=14.88s | NRMSE=2.204
+D k=3 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=44.24s | NRMSE=1.958
+D k=3 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=45.29s | NRMSE=1.955
+D k=9 | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=17.43s | NRMSE=1.969
+D k=9 | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=17.19s | NRMSE=2.006
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.42s | NRMSE=1.270
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=4.84s | NRMSE=1.524
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=5.84s | NRMSE=1.430
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+P+T:XYZ | Rz=False | time=5.51s | NRMSE=1.367
+G1 depth=3 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.38s | NRMSE=1.903
+G1 depth=3 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.76s | NRMSE=1.832
+G1 depth=10 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.44s | NRMSE=1.601
+G1 depth=10 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.67s | NRMSE=1.662
+G2 depth=3 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.57s | NRMSE=1.758
+G2 depth=3 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.26s | NRMSE=1.832
+G2 depth=10 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.99s | NRMSE=1.219
+G2 depth=10 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.71s | NRMSE=1.488
+G3 depth=3 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.16s | NRMSE=1.801
+G3 depth=3 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.82s | NRMSE=1.832
+G3 depth=10 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.3s | NRMSE=1.809
+G3 depth=10 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.78s | NRMSE=1.476
+MG depth=3 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.46s | NRMSE=2.941
+MG depth=3 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.97s | NRMSE=1.190
+MG depth=10 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=2.53s | NRMSE=2.026
+MG depth=10 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=3.06s | NRMSE=2.475
+D k=2 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=17.46s | NRMSE=2.006
+D k=2 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=15.14s | NRMSE=3.095
+D k=3 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=43.26s | NRMSE=2.157
+D k=3 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=53.94s | NRMSE=2.026
+D k=9 | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=18.51s | NRMSE=1.844
+D k=9 | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=19.8s | NRMSE=2.330
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.31s | NRMSE=1.620
+ISING ising=(10.0, 1, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=5.56s | NRMSE=1.499
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=0 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=5.15s | NRMSE=1.617
+ISING ising=(10.0, 2, 0.1, 1.0) | seed=1 | n=4 | extra=1 | meas=S+T:XYZ | Rz=False | time=4.53s | NRMSE=1.334
